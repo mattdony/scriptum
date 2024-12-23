@@ -38,6 +38,8 @@ __asdfadsf__ asdfa
 - [-] canceled 
 - [/] partial
 - [1] ㅁㄴㅇㄹㅁㄴㅇㄹ
+- [u] Up
+- [d] Down
 
 `asdfasf: asdfasdf`
 >  asdfasdfasf
